@@ -1,6 +1,7 @@
 {
   "name": "ViaNova",
   "short_name": "ViaNova",
+  "description": "International marriage, family reunification & visa consultancy",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#FBFAF7",
@@ -14,9 +15,9 @@
     },
     {
       "src": "/assets/vianova-logo-transparent.png",
-      "sizes": "512x512",
+      "sizes": "1086x1448",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ]
 }

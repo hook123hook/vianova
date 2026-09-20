@@ -15,8 +15,6 @@ services/monero/*.keys
 services/monero/*.address.txt
 services/monero/vianova-watch
 services/monero/vianova-watch.*
-services/monero/viarela-watch
-services/monero/viarela-watch.*
 
 # Monero CLI binaries & local launcher (real RPC password)
 services/monero/bin/
@@ -28,4 +26,3 @@ binance-square-bot/
 # Local utility scripts
 makezip.ps1
 mkzip3.js
-add-hreflang.ps1
