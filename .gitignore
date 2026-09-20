@@ -28,11 +28,4 @@ binance-square-bot/
 # Local utility scripts
 makezip.ps1
 mkzip3.js
-check-git.ps1
-install-git.ps1
-install-node.ps1
-install-gh.ps1
-create-repo.ps1
-check-token.ps1
-gh-setup.ps1
-vercel-deploy.ps1
+add-hreflang.ps1
