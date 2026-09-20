@@ -1,0 +1,16 @@
+{
+  "name": "vianova-xmr-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Monero payment watcher: wallet-rpc -> Supabase invoice crediting",
+  "main": "xmr-bridge.js",
+  "scripts": {
+    "start": "node xmr-bridge.js",
+    "seed": "node xmr-bridge.js --seed",
+    "doctor": "node doctor.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
