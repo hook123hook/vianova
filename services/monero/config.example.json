@@ -3,7 +3,7 @@
   "supabaseServiceRoleKey": "",
   "mainAddress": "42UaqUi6ixkTdwiMuzQnrSg1KUypQZv6A3cBKkV9LF9ASh52yqnju1EFqtv8orck4miKQDrxWgZLG5RL4d8sZfBhJqPepyd",
   "wallet": {
-    "rpcUrl": "http://127.0.0.1:18283",
+    "rpcUrl": "http://127.0.0.1:18283/json_rpc",
     "username": "vianova",
     "password": "CHANGE_ME"
   },
