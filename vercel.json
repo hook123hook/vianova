@@ -2,14 +2,6 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
   "trailingSlash": true,
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://vianova.vercel.app/:path*",
-      "permanent": true,
-      "statusCode": 308
-    }
-  ],
   "headers": [
     {
       "source": "/assets/(.*)",
