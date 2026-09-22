@@ -441,6 +441,18 @@ footer{margin-top:90px;background:#062c50;color:#fff}
 .pay-fiat-ans li:last-child{margin-bottom:0}
 .pay-qr-wrap img{display:block}
 .pay-row-warn .btn{width:auto;margin:0;padding:8px 12px;font-size:.8rem}
+.pay-notice{background:linear-gradient(135deg,#fff7f1,#eef5fb);border:1px solid rgba(10,51,90,.08);border-radius:16px;padding:12px 16px;margin:12px 0;font-size:.88rem;color:var(--blue)}
+.iban-details{margin-top:12px}
+.iban-details h3{font-size:1rem;margin:0 0 12px;color:var(--blue)}
+.iban-table{width:100%;border-collapse:collapse;font-size:.9rem}
+.iban-table td{padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+.iban-table td:first-child{color:var(--muted);font-weight:700;white-space:nowrap;width:110px}
+.iban-table td:last-child{color:var(--ink);word-break:break-all}
+.iban-instructions{margin:16px 0;padding:14px 16px;background:var(--soft);border-radius:16px;font-size:.88rem;color:var(--muted)}
+.iban-instructions p{margin:0 0 8px}
+.iban-instructions ol{margin:0 0 0 18px;padding:0}
+.iban-instructions li{margin-bottom:6px}
+.iban-instructions li:last-child{margin-bottom:0}
 @media(max-width:980px){
   .pay-layout{grid-template-columns:1fr}
   .pay-card{position:static}
