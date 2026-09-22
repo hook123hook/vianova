@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="48" viewBox="0 0 200 48" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .wordmark { font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 700; font-size: 32px; letter-spacing: -0.5px; }
+    .symbol { fill: #0A335A; }
+    .tagline { fill: var(--muted, #667080); font-size: 11px; letter-spacing: 1px; text-transform: uppercase; }
+  </style>
+  <g transform="translate(0, 30)">
+    <!-- Symbol: two connected dots representing connection/border crossing -->
+    <circle cx="32" cy="8" r="6" class="symbol" opacity="0.9"/>
+    <circle cx="44" cy="8" r="6" class="symbol" opacity="0.9"/>
+    <line x1="38" y1="4" x2="42" y2="12" stroke="#0A335A" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Wordmark -->
+    <text x="56" y="28" class="wordmark" fill="#0="#0A335A">ViaNova</text>
+  </g>
+  <g transform="translate(0, 18)">
+    <text x="0" y="14" class="tagline">Love Beyond Borders</text>
+  </g>
+</svg>

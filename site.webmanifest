@@ -14,7 +14,7 @@
       "purpose": "any"
     },
     {
-      "src": "/assets/vianova-logo-transparent.png",
+      "src": "/assets/vianova-logo.svg",
       "sizes": "1086x1448",
       "type": "image/png",
       "purpose": "any maskable"
