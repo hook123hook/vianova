@@ -1,9 +1,9 @@
 {
   "supabaseUrl": "https://zkbxacyhiucomtfevbfi.supabase.co",
-  "supabaseServiceRoleKey": "",
+  "supabaseServiceRoleKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InprYnhhY3loaXVjb210ZmV2YmZpIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4OTg0ODIwNSwiZXhwIjoyMTA1NDI0MjA1fQ.Uq-mO_P9U0BPgaLNt9GOcHBIsE9cMXtdlXkexzEZ6xY",
   "mainAddress": "42UaqUi6ixkTdwiMuzQnrSg1KUypQZv6A3cBKkV9LF9ASh52yqnju1EFqtv8orck4miKQDrxWgZLG5RL4d8sZfBhJqPepyd",
   "wallet": {
-    "rpcUrl": "http://127.0.0.1:18283/json_rpc",
+    "rpcUrl": "https://zkbxacyhiucomtfevbfi.supabase.co/functions/v1/monero/rpc",
     "username": "vianova",
     "password": "CHANGE_ME"
   },
